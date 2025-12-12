@@ -1,36 +1,34 @@
-# Public Libraries Data Analysis Project
+📚 Public Libraries Analysis – Power BI Dashboard
 
-This project performs **data cleaning, preprocessing, outlier removal, and Exploratory Data Analysis (EDA)** on a dataset of public libraries.
+This Power BI project provides a complete analytical view of public libraries, including their visits, operating hours, membership, and overall community engagement.
+The dashboard is designed to be interactive, visually appealing, and insight-driven, making it suitable for academic submissions, professional portfolios, or real-world analytics use cases.
 
-## 📌 Project Objectives
-- Clean the dataset (remove null values, duplicates, outliers)
-- Perform EDA (univariate, bivariate, correlation)
-- Visualize key insights
-- Prepare dataset for predictive analytics / ML (if needed)
+🚀 Project Features
 
----
+🟢 KPI cards for quick overview
 
-## 📂 Dataset
-**File:** `Public_Libraries.csv`
+🟠 Interactive slicers for filtering
 
-The dataset contains information about public libraries such as:
-- Library Name
-- Location
-- City, State
-- Services
-- Hours
-- Cards Issued
-- And more (depending on dataset)
+🔵 Buttons & bookmarks for report navigation
 
----
+📈 Trend analysis & comparisons
 
-## 🛠️ Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
+🧮 DAX-based measures for accurate insights
 
----
+📊 Clean, professional visuals
 
-## 📘 Project Structure
+🗂 Fully structured Power BI file (.pbix)
+
+📑 Objectives
+
+Analyze total number of libraries.
+
+Compare library visits across regions/time.
+
+Evaluate average operating hours.
+
+Understand user engagement patterns.
+
+Visualize library resources and activity levels.
+
+(Extra Objective) Identify which libraries perform best based on visits-to-hours ratio.
